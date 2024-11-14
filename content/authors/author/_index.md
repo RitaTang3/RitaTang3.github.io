@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Mass Communication
     institution: University of Minnesota (UMN)
-    year: 2026
+    year: 2026 (anticipated)
   - course: M.A. in Anthropology and Education
     institution: Columbia University, Teachers College (TC)
     year: 2022
