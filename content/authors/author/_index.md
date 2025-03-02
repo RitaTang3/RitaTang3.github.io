@@ -73,7 +73,7 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD Candiate at the Hubbard School of Journalism and Mass Communication at the University of Minnesota. My research focuses on strategic communication and enhancing individuals' ability to discern quality information, especially in the context of AI-driven disinformation. I explore interventions to counter mis/disinformation on social media across various contexts, including politics, health, and public relations. Additionally, I study people's experiences with corrections—whether witnessing, performing, or receiving them. As a mixed-methods researcher, I use both qualitative approaches, like interviews, and quantitative methods, such as experiments and surveys.
+I am a PhD candidate at the Hubbard School of Journalism and Mass Communication at the University of Minnesota. My research focuses on strategic communication and enhancing individuals' ability to discern quality information, especially in the context of AI-driven disinformation. I explore interventions to counter mis/disinformation on social media across various contexts, including politics, health, and public relations. Additionally, I study people's experiences with corrections—whether witnessing, performing, or receiving them. As a mixed-methods researcher, I use both qualitative approaches, like interviews, and quantitative methods, such as experiments and surveys.
 
 
 Here are my [Email](mailto:tang0768@umn.edu), [Twitter](https://x.com/Rongwei_Tang), and [Google Scholar](https://scholar.google.com/citations?user=Z9lEOxQAAAAJ&hl=en&oi=ao). If you are interested in collaboration, please feel free to contact me via my [email](mailto:tang0768@umn.edu).
