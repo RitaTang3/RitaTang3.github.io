@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: PhD candidate (all-but-dissertation)
 
 # Organizations/Affiliations
 organizations:
