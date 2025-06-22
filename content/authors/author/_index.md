@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: <>
 
-Research interests:
+interests:
 - Misinformation correction
 - Media literacy
 - Artificial intelligence
