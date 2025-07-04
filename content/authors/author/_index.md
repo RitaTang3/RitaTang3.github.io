@@ -22,7 +22,6 @@ bio: <>
 
 interests:
 - Misinformation correction
-- Media literacy
 - Artificial intelligence
 - Strategic communication
 
