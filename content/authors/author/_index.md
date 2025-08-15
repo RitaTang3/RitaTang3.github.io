@@ -24,12 +24,15 @@ interests:
 - Misinformation correction
 - Artificial intelligence
 - Strategic communication
+- Journalism
+- Political communication
+- Health/risk/science communication
 
 education:
   courses:
   - course: Ph.D. in Mass Communication
     institution: University of Minnesota (UMN)
-    year: 2026 (anticipated)
+    year: 2026 May (anticipated)
   - course: M.A. in Anthropology and Education
     institution: Columbia University, Teachers College (TC)
     year: 2022
@@ -73,7 +76,9 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD candidate at the Hubbard School of Journalism and Mass Communication at the University of Minnesota. My research focuses on strategic communication, promoting accurate information and enhancing individuals' ability to discern quality information, especially in the context of AI-driven disinformation. I explore interventions to counter mis/disinformation on social media across various contexts, including public relations, journalism, politics, and health. Additionally, I study people's experiences with corrections—whether witnessing, performing, or receiving them. As a mixed-methods researcher, I use both qualitative approaches, like interviews, and quantitative methods, such as experiments and surveys. I am also deeply passionate about teaching. At the Hubbard School of Journalism and Mass Communication at the University of Minnesota, I have served as instructor of record for undergraduate courses, including JOUR 1501 Digital Games (online) in both Summer 2024 and Summer 2025 and JOUR 4259 Strategic Communication Case Analysis (in person) in Spring 2025.
+I am a PhD candidate at the Hubbard School of Journalism and Mass Communication at the University of Minnesota, expecting to graduate in May 2026. My research examines how organizations and individuals can use AI and social media to combat misinformation and promote accurate information in health risk communication, science communication, and crisis communication. With a minor in political psychology, I also study how health journalists handle misinformation in politicized environments and how correction experiences shape democratic attitudes and political participation. As a mixed-methods researcher, I use both qualitative approaches, like interviews, thematic analysis, and quantitative methods, such as experiments, surveys, and computational methods. 
+
+I am also deeply passionate about teaching. At the Hubbard School of Journalism and Mass Communication at the University of Minnesota, I have served as instructor of record for undergraduate courses, including JOUR 1501 Digital Games (online) in both Summer 2024 and Summer 2025, and JOUR 4259 Strategic Communication Case Analysis (in person) in Spring 2025.
 
 
 Here are my [Email](mailto:tang0768@umn.edu), [Twitter](https://x.com/Rongwei_Tang), and [Google Scholar](https://scholar.google.com/citations?user=Z9lEOxQAAAAJ&hl=en&oi=ao). If you are interested in collaboration, please feel free to contact me via my [email](mailto:tang0768@umn.edu).
