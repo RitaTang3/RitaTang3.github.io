@@ -21,11 +21,10 @@ organizations:
 bio: <>
 
 interests:
-- Misinformation correction
 - Artificial intelligence
 - Strategic communication
-- Journalism
 - Political communication
+- Journalism
 - Health/risk/science communication
 
 education:
